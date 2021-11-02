@@ -1,2 +1,0 @@
-# CGuerra
-Main Personal repo
