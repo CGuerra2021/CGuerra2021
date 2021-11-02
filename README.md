@@ -8,8 +8,8 @@ Como  decia Alejandro El grande:
 * > Cuando damos a alguien nuestro tiempo, en realidad damos una parte de nuestra vida, que nunca vamos a recuperar.
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/CGuerra2021/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=CGuerra2021&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
