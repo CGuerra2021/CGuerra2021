@@ -6,5 +6,11 @@
 
 Como  decia Alejandro El grande:
 * > Cuando damos a alguien nuestro tiempo, en realidad damos una parte de nuestra vida, que nunca vamos a recuperar.
-* Inline code `<https://>`
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
 
