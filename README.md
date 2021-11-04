@@ -6,6 +6,13 @@
 
 # About: 
  Im Carlos Guerra and im studying to be a teacher.
+ 
+* Tabla:
+
+| Tarea         | Practica    |
+| ------------- | ----------- |
+| Fichero       | Github      |
+| Completada    | En proceso  |
 
 ![]()
 * [Acceso al perfil Alu0100703535](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1177)
